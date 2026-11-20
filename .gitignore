@@ -68,3 +68,5 @@ Caddyfile
 dev.pid
 *.pid
 .vercel
+.vercel
+.env*
